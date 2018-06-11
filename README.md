@@ -6,7 +6,7 @@ English | [简体中文](./README.zh-CN.md)
 
 An out-of-box UI solution for enterprise applications as a React boilerplate.
 
-![](https://gw.alipayobjects.com/zos/rmsportal/xEdBqwSzvoSapmnSnYjU.png)
+![](./demo.png)
 
 - Preview: http://preview.pro.ant.design
 - Home Page: http://pro.ant.design
